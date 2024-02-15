@@ -5,12 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yRuanz/count.svg?"  />
-</div>
-
-###
-
 <h1 align="center"></h1>
 
 ###
